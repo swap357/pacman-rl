@@ -1,4 +1,4 @@
-# Pacman AI agent
+# Pacman RL agent
 
 
 Code files edited:
